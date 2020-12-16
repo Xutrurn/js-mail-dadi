@@ -12,7 +12,7 @@ body {
   font-family: 'Oswald', sans-serif;
 }
 
-h1, h2 {
+h1, h2, h3 {
   color: white;
 }
 
@@ -78,8 +78,10 @@ h1, h2 {
   transform: scale(1.04);
 }
 
+
 .fas {
   margin-top: 16px;
+  margin-bottom: 16px;
   color: white;
   font-size: 32px;
 }

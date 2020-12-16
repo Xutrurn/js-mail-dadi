@@ -22,6 +22,10 @@ resultViz.addEventListener("click", function() {
   }
 
   document.getElementById("result").innerHTML = resultViz;
+  document.getElementById("numberPlayer").innerHTML = player;
+  document.getElementById("numberAi").innerHTML = ai;
+
+
 
 
 
